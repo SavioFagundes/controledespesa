@@ -1,0 +1,14 @@
+F:\Projects\ControleDespesas\bin\Debug\net9.0\ControleDespesas.exe
+F:\Projects\ControleDespesas\bin\Debug\net9.0\ControleDespesas.deps.json
+F:\Projects\ControleDespesas\bin\Debug\net9.0\ControleDespesas.runtimeconfig.json
+F:\Projects\ControleDespesas\bin\Debug\net9.0\ControleDespesas.dll
+F:\Projects\ControleDespesas\bin\Debug\net9.0\ControleDespesas.pdb
+F:\Projects\ControleDespesas\obj\Debug\net9.0\ControleDespesas.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\ControleDespesas\obj\Debug\net9.0\ControleDespesas.AssemblyInfoInputs.cache
+F:\Projects\ControleDespesas\obj\Debug\net9.0\ControleDespesas.AssemblyInfo.cs
+F:\Projects\ControleDespesas\obj\Debug\net9.0\ControleDespesas.csproj.CoreCompileInputs.cache
+F:\Projects\ControleDespesas\obj\Debug\net9.0\ControleDespesas.dll
+F:\Projects\ControleDespesas\obj\Debug\net9.0\refint\ControleDespesas.dll
+F:\Projects\ControleDespesas\obj\Debug\net9.0\ControleDespesas.pdb
+F:\Projects\ControleDespesas\obj\Debug\net9.0\ControleDespesas.genruntimeconfig.cache
+F:\Projects\ControleDespesas\obj\Debug\net9.0\ref\ControleDespesas.dll
